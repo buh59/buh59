@@ -1,27 +1,20 @@
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=buh59.buh59&"  />
-</div>
+# Hi 👋, I'm Guinet Mathys
 
-###
+### A passionate C developer
 
-<div data-importer="socials" align="left">
-  <a href="www.linkedin.com/in/mathys-guinet" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+- 🔭 I'm currently working on **a media hosting project**
 
-###
+- 🌱 I'm currently learning **javascript**
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/buh59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="buh59" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Mathys Guinet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mathys Guinet" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buh59&" alt="buh59" /></p>
+
