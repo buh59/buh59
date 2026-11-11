@@ -1,3 +1,8 @@
+<h1 align="center">buh</h1>
+
+
+<p align="center"><img src="https://femboy.beauty/brYhVn" alt="bash"/></p>
+
 # Hi 👋, I'm Guinet Mathys
 
 ### A passionate C developer
@@ -17,4 +22,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buh59&" alt="buh59" /></p>
+
+</br></br></br></br>
+
+<h2 align="center">Anyone got a job for me? </h2>
+
+<p align="center"><img src="https://femboy.beauty/u8o544" height="180" width="140"/></p>
 
